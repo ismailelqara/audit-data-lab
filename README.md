@@ -3,7 +3,7 @@
 Generate realistic **synthetic invoice data** with **injected, labeled anomalies**
 to practice audit data analytics (Excel, SQL, Python) without touching real data.
 
-Built by [Ismail EL QARA](<https://www.linkedin.com/in/ismailelqara/>)
+**[Live demo](<your-streamlit-link>)** Built by [Ismail EL QARA](<https://www.linkedin.com/in/ismailelqara/>)
 
 ![App screenshot](docs/screenshot.png)
 
