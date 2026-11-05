@@ -1,5 +1,6 @@
-# Audit Data Lab by @Ismail EL QARA
+# Audit Data Lab for Audit & Internal Control
 
+By @Ismail EL QARA
 Generate realistic **synthetic invoice data** with **injected, labeled anomalies**
 to practice audit data analytics (Excel, SQL, Python) without touching real data.
 
